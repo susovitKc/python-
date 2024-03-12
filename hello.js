@@ -1,0 +1,1 @@
+const sovit = alert("Hello World")
